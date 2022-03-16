@@ -10,6 +10,5 @@ Introdução aos fundamentos e aplicações da propriedade flexbox na criação 
 * <b>flex wrap 1</b>: Define se os itens flexíveis são forçados a ficarem na mesma linha ou se podem ser quebradas em varias linhas
 
 ## :wrench: Tecnologias utilizadas
-* javascript;
 * html;
 * css;
